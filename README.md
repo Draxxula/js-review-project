@@ -1,1 +1,1 @@
-# JavaScript Review Project by Dessa_Marie_P_Angcahan (BSIT - 2)
+# JavaScript Review Project by Dessa_Marie_P_Angcahan
